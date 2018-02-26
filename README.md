@@ -1,5 +1,7 @@
 # ensure-ansible-trust
 
+Simple util for establishing trust with inventory hosts
+
 ```
 ensure-ansible-trust
 
